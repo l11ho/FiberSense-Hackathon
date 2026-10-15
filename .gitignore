@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Raw datasets
+4.csv
+5.csv
+
+# Environment secrets
+.env
+.env.*
